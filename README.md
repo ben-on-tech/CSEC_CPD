@@ -1,2 +1,1 @@
-F
-or CSEC contest.
+For CSEC contest.
